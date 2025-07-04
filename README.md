@@ -1,7 +1,8 @@
-<h1 align="left">Olá, pessoal!</h1>
-<h3 align="left">Prazer, Marcelo Augusto. Estudante de Java e seu ecossistema para a criação de aplicações backend.</h3>
 
-- 📫 How to reach me **augustodasilva938@gmail.com**
+
+<h2 align="left">Sobre mim:</h2>
+
+<p>Olá, pessoal! <br/>  <br/> Prazer, Marcelo Augusto. Atualmente sou estudante de Java e seu ecossistema. Sou graduado em Análise e Desenvolvimento de Sistemas e futuro cientista da computação. Dedico-me hoje ao desenvolvimento backend para construir aplicações escaláveis, seguras e otimizadas.</p>
 
 <h3 align="left">Redes:</h3>
 <p align="left">
@@ -13,9 +14,9 @@
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=augustto366&show_icons=true&locale=en&layout=compact" alt="augustto366" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=augustto366&show_icons=true&locale=en" alt="augustto366" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=augustto366&show_icons=true&locale=en&layout=compact" alt="augustto366" /></p>
 
 <img alt="HotCoffee" src="https://ugokawaii.com/wp-content/uploads/2022/10/hot-coffee.gif" width="300" />
 
