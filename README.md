@@ -24,19 +24,19 @@
 
 ###
 
-<h1 align="center">Olá, pessoal! 👋</h1>
+<h1 align="center">wozniak better than jobs </h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">augustto366</h3>
 
 ###
 
-<p align="left">Sou graduado em Análise e Desenvolvimento de Sistemas, estudante do ecossistema Java e um grande entusiasta da ciência da computação.</p>
+<p align="left">alan turing and donald knuth were the greatest geniuses of computer science</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
+<h3 align="left">i would like to have contact with the electrons</h3>
 
 ###
 
